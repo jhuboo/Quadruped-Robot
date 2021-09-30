@@ -149,7 +149,9 @@ Since the system is likely to have a lot of nodes that perform interrelated func
 
 launch files are launched as follows using the `roslaunch` command (NOTE: roslaunch will launch a master, ie `roscore`):
 
-	```roslaunch <pkg_name> <file_name>.launch```
+	```
+	roslaunch <pkg_name> <file_name>.launch
+	```
 
 launch files are usually stored in the `/launch` directory of a ROS package. A sample launch file is shown below:
 
