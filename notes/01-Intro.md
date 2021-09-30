@@ -229,11 +229,11 @@ The rosbag record command will store all the info captured in `.bag` file in the
 
 The command `rosbag play filename.bag` will replay the contents of the specified ROS bag file. All the msgs from all the topics recorded are published again with the same relative timing as they were recorded. You can run the same or additional nodes while replaying a ROS bag; these nodes can subscribe or publish on the same topics from the bag.
 
-	`
+	```
 	rosbag play filename.bag
 	--start=TIME  		- Start playing from TIME seconds into the file
 	--duration=TIME 	- Play for a duration of TIME seconds
-	`
+	```
 
 ### Summary
 
