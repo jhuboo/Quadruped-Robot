@@ -1,6 +1,7 @@
 # Introdution
 
 > References: ME416 Intro to Robotics (Professor Roberto Tron)
+
 > Author: Anvesh G. Jhuboo
 
 ## Structure of Robot
