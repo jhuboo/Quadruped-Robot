@@ -3,7 +3,7 @@
 ## Structure of Robot
 
 Robot Definition
-> A robot is a machien that combines electro-mechanical systems, computing, sensing, and actuation; its capabilities can fall along a large spectrum of intelligence and autonomy.
+> A robot is a machine that combines electro-mechanical systems, computing, sensing, and actuation; its capabilities can fall along a large spectrum of intelligence and autonomy.
 
 The above definition implies the following cycle: sensing -> computation -> actuation -> effect with environment -> sensing
 
