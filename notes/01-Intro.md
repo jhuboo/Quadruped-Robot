@@ -171,7 +171,10 @@ launch files are usually stored in the `/launch` directory of a ROS package. A s
 ##### Breakdown of the launch file
 
 - Header (mandatory)
-	```?xml version="1.0"?>
+	```
+	<?xml version="1.0"?>
+	```
+	
 
 - Optional Description
 	```
