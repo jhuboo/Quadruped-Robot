@@ -1,9 +1,13 @@
 # Introdution
 
+> References: ME416 Intro to Robotics (Professor Roberto Tron)
+
+> Author: Anvesh G. Jhuboo
+
 ## Structure of Robot
 
 Robot Definition
-> A robot is a machien that combines electro-mechanical systems, computing, sensing, and actuation; its capabilities can fall along a large spectrum of intelligence and autonomy.
+> A robot is a machine that combines electro-mechanical systems, computing, sensing, and actuation; its capabilities can fall along a large spectrum of intelligence and autonomy.
 
 The above definition implies the following cycle: sensing -> computation -> actuation -> effect with environment -> sensing
 
@@ -149,7 +153,9 @@ Since the system is likely to have a lot of nodes that perform interrelated func
 
 launch files are launched as follows using the `roslaunch` command (NOTE: roslaunch will launch a master, ie `roscore`):
 
-	```roslaunch <pkg_name> <file_name>.launch```
+	```
+	roslaunch <pkg_name> <file_name>.launch
+	```
 
 launch files are usually stored in the `/launch` directory of a ROS package. A sample launch file is shown below:
 
@@ -171,7 +177,10 @@ launch files are usually stored in the `/launch` directory of a ROS package. A s
 ##### Breakdown of the launch file
 
 - Header (mandatory)
-	```?xml version="1.0"?>
+	```
+	<?xml version="1.0"?>
+	```
+	
 
 - Optional Description
 	```
