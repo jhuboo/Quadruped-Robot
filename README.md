@@ -15,9 +15,18 @@
 	- The files can be found on our Driver under the folder [CAD\_Files](https://drive.google.com/drive/folders/1Ap0bBhJqepLy62csppPCNvNkpyGk60Wh?usp=sharing)
 	- All other parts can be reproduced using the CAD drawing above or modified to fit your needs.
 
+# Website
 
+The github for our website can be found [here](https://github.com/gyoon18/Quadruped-Website)
+The website will be hosted soon on Github Pages.
 
-## Tech Stack
+Tech Stack for the Website:
+	- React
+	- JavaScript
+	- CSS
+	- HTML
+
+## Tech Stack for Robot
 
 - ROS (Robotic Operating System)
 - Python
