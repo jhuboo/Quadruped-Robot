@@ -15,6 +15,12 @@
 	- The files can be found on our Driver under the folder [CAD\_Files](https://drive.google.com/drive/folders/1Ap0bBhJqepLy62csppPCNvNkpyGk60Wh?usp=sharing)
 	- All other parts can be reproduced using the CAD drawing above or modified to fit your needs.
 
+## ROS Software with Ubuntu Image
+
+The Ubuntu Image with the Robotic Package can be found [here](https://drive.google.com/drive/folders/17RJe03vgKR5fZo0_f3DzIYsZ8aAz6qrk?usp=sharing)
+
+You can follow the [instructions](https://github.com/jhuboo/Quadruped-Robot/blob/main/Doc/guide/software_installation.rst) to burn the image on an SD drive under /Doc/guide/software\_installation.rst
+
 ## Website
 
 The github for our website can be found [here](https://github.com/gyoon18/Quadruped-Website)
