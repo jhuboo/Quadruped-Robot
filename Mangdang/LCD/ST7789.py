@@ -147,9 +147,9 @@ class ST7789(object):
         optionally provide the GPIO pin number for the reset pin as the rst
         parameter.
         """
-        RST = 14  # Set GPIO pin# 15 (BCM 14) as reset control
-        DC = 15  # Set GPIO pin# 11 (BCM 15) as DATA/command (NOT MOSI!)
-        LED = 27  # Set GPIO pin# 13 (BCM 27) as backlight control
+        RST = 27  # Set GPIO pin# 15 (BCM 14) as reset control
+        DC = 25  # Set GPIO pin# 11 (BCM 15) as DATA/command (NOT MOSI!)
+        LED = 24  # Set GPIO pin# 13 (BCM 27) as backlight control
         SPI_PORT = 0
         SPI_DEVICE = 0
         SPI_MODE = 0b11
